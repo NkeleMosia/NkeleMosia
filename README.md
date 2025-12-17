@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Developer from South Africa 🇿🇦</h3>
 
 <p align="center">
-  <a href="https://github.com/NkeleMosia/NkeleMosia/" target="_blank">
+  <a href="https://www.linkedin.com/in/nkele-mosia-214462345/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/" target="_blank">
